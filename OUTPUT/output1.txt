@@ -1,0 +1,10 @@
+3
+-A
+B
+-C
+4
+-B OR C
+A OR C
+A OR -B
+{}
+YES
